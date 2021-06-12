@@ -27,4 +27,4 @@ help - Help command.
 
 
 *Please do not claim this bot as you made it, I'd rather you keep the watermark in on the embed as well but it's okay if you remove it however do not say you made this bot.*
-Spanish version coming soon
+

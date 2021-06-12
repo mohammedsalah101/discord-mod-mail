@@ -1,0 +1,12 @@
+{ 
+    "prefix" : "_",
+    "bot-name" : "(bots name)",
+    "serverID" : "(server id)",
+    "ModeratorRoles" : ["RoleId1", "RoleId2"], 
+    "EmbedAuthor" : "Modmail",
+    "Category" : "(category id_",
+    "LogChannel" : "(channel id)",
+    "EmbedPfp" : "",
+    "EmbedColour" : "#a60100",
+    "token" : "(bot token)"
+}
